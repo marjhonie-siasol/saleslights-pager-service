@@ -1,0 +1,16 @@
+{
+  "name": "saleslights-pager-service",
+  "version": "1.0.0",
+  "description": "A coding exercise for the Pager Service domain logic.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Marjhonie",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^30.0.3"
+  }
+}
